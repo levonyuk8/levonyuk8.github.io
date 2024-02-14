@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/authorization",
+    "/authorization/login",
+    "/authorization/logout",
+    "/furniture",
+    "/home"
+  ]
+}
